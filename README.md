@@ -1,3 +1,6 @@
+Original Author of this solution 
+https://github.com/damek24/ParserPocztaPolska
+
 # C# parser of pdf file distributed by polish Post Office
 The parser has been written in modern C# with nuget iText (v7)  library
 
